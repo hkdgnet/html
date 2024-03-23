@@ -1,0 +1,33 @@
+li,
+h4,
+p {
+  color: red;
+}
+
+html {
+  font-size: 20px;
+  background-color: #d2dde7;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 1px 1px 1px rgb(179, 62, 62);
+}
+
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #f5a133;
+  padding: 10px 20px 20px 20px;
+  border: 2px solid rgb(93, 85, 85);
+}
+
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
